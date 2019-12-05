@@ -1,0 +1,16 @@
+---
+ID: 368
+post_title: Genres
+author: jonathans
+post_excerpt: ""
+layout: page
+permalink: https://biowrite.w.uib.no/genres/
+published: true
+post_date: 2019-04-01 15:08:18
+---
+<div id="pl-368" class="panel-layout"><div id="pg-368-0" class="panel-grid panel-no-style" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;,&quot;animation_event&quot;:&quot;enter&quot;,&quot;animation_screen_offset&quot;:&quot;0&quot;,&quot;animation_duration&quot;:&quot;1&quot;,&quot;animation_repeat&quot;:&quot;&quot;,&quot;animation_hide&quot;:true,&quot;animation_state_end&quot;:&quot;visible&quot;,&quot;animation_delay&quot;:&quot;0&quot;,&quot;animation_debounce&quot;:&quot;0.1&quot;}" data-ratio="1" data-ratio-direction="right"><div id="pgc-368-0-0" class="panel-grid-cell panel-grid-cell-empty" data-weight="0.1"></div><div id="pgc-368-0-1" class="panel-grid-cell panel-grid-cell-mobile-last" data-weight="0.8"><div id="panel-368-0-1-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;animation_event&quot;:&quot;enter&quot;,&quot;animation_screen_offset&quot;:&quot;0&quot;,&quot;animation_duration&quot;:&quot;1&quot;,&quot;animation_repeat&quot;:&quot;&quot;,&quot;animation_hide&quot;:true,&quot;animation_state_end&quot;:&quot;visible&quot;,&quot;animation_delay&quot;:&quot;0&quot;,&quot;animation_debounce&quot;:&quot;0.1&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	The following are some general descriptions of- and tips on different genres within science communication. Remember that these are just the basic instructions, so always check your assignment description in case of deviations from these instructions.
+
+</div>
+</div></div><div id="panel-368-0-1-1" class="so-panel widget widget_sow-accordion panel-last-child" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;animation_event&quot;:&quot;enter&quot;,&quot;animation_screen_offset&quot;:&quot;0&quot;,&quot;animation_duration&quot;:&quot;1&quot;,&quot;animation_repeat&quot;:&quot;&quot;,&quot;animation_hide&quot;:true,&quot;animation_state_end&quot;:&quot;visible&quot;,&quot;animation_delay&quot;:&quot;0&quot;,&quot;animation_debounce&quot;:&quot;0.1&quot;}">[siteorigin_widget class="SiteOrigin_Widget_Accordion_Widget"][/siteorigin_widget]</div></div><div id="pgc-368-0-2" class="panel-grid-cell panel-grid-cell-empty" data-weight="0.1"></div></div></div>
