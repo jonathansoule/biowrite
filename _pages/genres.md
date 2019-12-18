@@ -4,7 +4,7 @@ post_title: Genres
 author: jonathans
 post_excerpt: ""
 layout: page
-permalink: https://biowrite.w.uib.no/genres/
+permalink: http://biowrite.w.uib.no/genres/
 published: true
 post_date: 2019-04-01 15:08:18
 ---
