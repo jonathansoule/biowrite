@@ -4,7 +4,7 @@ post_title: How To Write
 author: jonathans
 post_excerpt: ""
 layout: page
-permalink: https://biowrite.w.uib.no/how-to-write/
+permalink: http://biowrite.w.uib.no/how-to-write/
 published: true
 post_date: 2019-06-21 13:19:25
 ---
