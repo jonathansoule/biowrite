@@ -5,7 +5,7 @@ author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
-  https://biowrite.w.uib.no/how-to-manage-data/
+  http://biowrite.w.uib.no/how-to-manage-data/
 published: true
 post_date: 2019-06-21 13:22:08
 ---
