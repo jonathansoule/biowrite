@@ -4,7 +4,7 @@ post_title: How To Read
 author: jonathans
 post_excerpt: ""
 layout: page
-permalink: https://biowrite.w.uib.no/how-to-read/
+permalink: http://biowrite.w.uib.no/how-to-read/
 published: true
 post_date: 2019-06-21 12:41:56
 ---
