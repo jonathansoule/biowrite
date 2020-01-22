@@ -5,7 +5,7 @@ author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
-  https://biowrite.w.uib.no/how-to-give-feedback/
+  http://biowrite.w.uib.no/how-to-give-feedback/
 published: true
 post_date: 2019-06-21 13:23:07
 ---
