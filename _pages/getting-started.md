@@ -5,7 +5,7 @@ author: jonathans
 post_excerpt: ""
 layout: page
 permalink: >
-  https://biowrite.w.uib.no/getting-started/
+  http://biowrite.w.uib.no/getting-started/
 published: true
 post_date: 2019-06-21 09:33:03
 ---
