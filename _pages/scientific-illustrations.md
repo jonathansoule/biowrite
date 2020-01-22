@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2020-01-22 15:30:31
 ---
+[caption id="attachment_624" align="aligncenter" width="1024"]<img src="http://biowrite.w.uib.no/files/2019/06/Evolution-des-wissens-1024x411.jpg" alt="" width="1024" height="411" class="size-large wp-image-624" /> Source: Johanna Pung (CC BY-SA 3.0)[/caption]
